@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://compliancepack.net/" target="_blank">
+  <a href="https://www.compliancepack.net/" target="_blank">
     <img height=256 src="https://raw.githubusercontent.com/Compliance-Resource-Pack/Branding/main/wordmarks/outlined/plain.png" alt="wordmark">
   </a>
 </p>
