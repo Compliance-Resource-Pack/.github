@@ -8,3 +8,7 @@
   Faithful is a collection of 32x and 64x resolution Minecraft resource packs for Minecraft Java, Minecraft Bedrock and Minecraft Dungeons, aiming to provide higher-resolution textures while staying true to the vanilla Minecraft textures.<br><br>
   All of our work is free and open source, we don't use any money making download links and don't do any ads or data collection.
 <h3>
+
+<h4 align="center">
+  Check out our sister project <a href="https://github.com/ClassicFaithful">Classic Faithful</a>
+</h4>
