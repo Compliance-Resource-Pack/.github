@@ -10,5 +10,5 @@
 <h3>
 
 <h4 align="center">
-  Check out our sister project <a href="https://github.com/ClassicFaithful">Classic Faithful</a>!
+  Check out our sister project <a href="https://github.com/ClassicFaithful">Classic Faithful</a> here!
 </h4>
