@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.faithfulpack.net/" target="_blank">
-    <img src="https://database.faithfulpack.net/images/branding/wordmarks/outlined/flat/faithful_plain_flat_border.png" alt="wordmark">
+    <img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/wordmarks/outlined/flat/main_flat_wordmark.png" alt="wordmark">
   </a>
 </p>
 
